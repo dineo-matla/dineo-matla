@@ -3,7 +3,7 @@
 
 ## 👋🏼 Hey, I'm Dineo!  
 
-I'm an **aspiring Front-End Developer** passionate about crafting engaging and accessible web experiences. I have experience in **HTML, CSS, and JavaScript**. My goal is to become a **full-stack developer** with a focus on the **MERN stack**.  My journey into **tech** is driven by my passion for understanding human behavior and creating **user-friendly, intuitive digital experiences**. I believe that **good software isn’t just about code - it’s about people**. With my background in **Psychology**, I bring a unique perspective to **problem-solving, user experience, and design thinking**.  
+I'm an **aspiring Front-End Developer** passionate about crafting engaging and accessible web experiences. I have experience in **HTML, CSS, and JavaScript**. My goal is to become a **full-stack developer** with a focus on the **MERN stack**.  My journey into **tech** is driven by my passion for understanding human behavior and creating **user-friendly, intuitive digital experiences**. With my background in **Psychology**, I bring a unique perspective to **problem-solving, user experience, and design thinking**.  
 
 ### 🌱 **What I'm Learning**
 - 🏗 **React.js** – Building dynamic user interfaces  
